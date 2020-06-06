@@ -1,0 +1,1934 @@
+{
+  "movieListResult": {
+    "totCnt": 75961,
+    "source": "영화진흥위원회",
+    "movieList": [
+      {
+        "movieCd": "20205247",
+        "movieNm": "우리가 꽃들이라면",
+        "movieNmEn": "We Bloom",
+        "prdtYear": "2020",
+        "openDt": "",
+        "typeNm": "단편",
+        "prdtStatNm": "기타",
+        "nationAlt": "한국",
+        "genreAlt": "드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "드라마",
+        "directors": [
+          {
+            "peopleNm": "김율희"
+          }
+        ],
+        "companys": []
+      },
+      {
+        "movieCd": "20200388",
+        "movieNm": "유부녀 집구멍으로 질속배달 택배기사",
+        "movieNmEn": "Home delivery service brother",
+        "prdtYear": "2019",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉예정",
+        "nationAlt": "일본",
+        "genreAlt": "드라마,성인물(에로)",
+        "repNationNm": "일본",
+        "repGenreNm": "드라마",
+        "directors": [],
+        "companys": []
+      },
+      {
+        "movieCd": "20200406",
+        "movieNm": "욕망에 눈뜬 여관 아줌마",
+        "movieNmEn": "Ryokan landlady who woke up to desire",
+        "prdtYear": "2019",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉예정",
+        "nationAlt": "일본",
+        "genreAlt": "드라마,성인물(에로)",
+        "repNationNm": "일본",
+        "repGenreNm": "드라마",
+        "directors": [
+          {
+            "peopleNm": "츠지 코지"
+          }
+        ],
+        "companys": []
+      },
+      {
+        "movieCd": "20200387",
+        "movieNm": "음란한 과외 선생님",
+        "movieNmEn": "Playing partner is the son next door",
+        "prdtYear": "2019",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉예정",
+        "nationAlt": "일본",
+        "genreAlt": "드라마,성인물(에로)",
+        "repNationNm": "일본",
+        "repGenreNm": "드라마",
+        "directors": [],
+        "companys": []
+      },
+      {
+        "movieCd": "20200405",
+        "movieNm": "데마찌",
+        "movieNmEn": "Damage",
+        "prdtYear": "2019",
+        "openDt": "",
+        "typeNm": "단편",
+        "prdtStatNm": "기타",
+        "nationAlt": "한국",
+        "genreAlt": "기타",
+        "repNationNm": "한국",
+        "repGenreNm": "기타",
+        "directors": [],
+        "companys": []
+      },
+      {
+        "movieCd": "20101373",
+        "movieNm": "고다르 영화사",
+        "movieNmEn": "Histories of Cinema",
+        "prdtYear": "1997",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "기타",
+        "nationAlt": "프랑스,스위스",
+        "genreAlt": "다큐멘터리,드라마",
+        "repNationNm": "프랑스",
+        "repGenreNm": "다큐멘터리",
+        "directors": [
+          {
+            "peopleNm": "장 뤽 고다르"
+          }
+        ],
+        "companys": []
+      },
+      {
+        "movieCd": "20200404",
+        "movieNm": "그라이아이: 주둔하는 신",
+        "movieNmEn": "Graeae: A Stationed Idea",
+        "prdtYear": "2020",
+        "openDt": "",
+        "typeNm": "단편",
+        "prdtStatNm": "기타",
+        "nationAlt": "한국",
+        "genreAlt": "기타",
+        "repNationNm": "한국",
+        "repGenreNm": "기타",
+        "directors": [],
+        "companys": []
+      },
+      {
+        "movieCd": "20200403",
+        "movieNm": "포에버 모차르트",
+        "movieNmEn": "For Ever Mozart",
+        "prdtYear": "1996",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "기타",
+        "nationAlt": "스위스,프랑스",
+        "genreAlt": "코미디,드라마,전쟁",
+        "repNationNm": "스위스",
+        "repGenreNm": "코미디",
+        "directors": [
+          {
+            "peopleNm": "장 뤽 고다르"
+          }
+        ],
+        "companys": []
+      },
+      {
+        "movieCd": "20200402",
+        "movieNm": "갇힌 남자",
+        "movieNmEn": "Trapped",
+        "prdtYear": "2020",
+        "openDt": "",
+        "typeNm": "단편",
+        "prdtStatNm": "기타",
+        "nationAlt": "한국",
+        "genreAlt": "기타",
+        "repNationNm": "한국",
+        "repGenreNm": "기타",
+        "directors": [
+          {
+            "peopleNm": "김윤선"
+          }
+        ],
+        "companys": []
+      },
+      {
+        "movieCd": "20080342",
+        "movieNm": "JLG/JLG 고다르의 자화상 특별전-JLG/JLG: 고다르의 자화상",
+        "movieNmEn": "JLG/JLG - Self-Portrait in December",
+        "prdtYear": "1994",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "기타",
+        "nationAlt": "프랑스",
+        "genreAlt": "다큐멘터리,드라마",
+        "repNationNm": "프랑스",
+        "repGenreNm": "다큐멘터리",
+        "directors": [
+          {
+            "peopleNm": "장 뤽 고다르"
+          }
+        ],
+        "companys": []
+      },
+      {
+        "movieCd": "20200386",
+        "movieNm": "실",
+        "movieNmEn": "The Thread (Sil)",
+        "prdtYear": "2020",
+        "openDt": "",
+        "typeNm": "단편",
+        "prdtStatNm": "기타",
+        "nationAlt": "한국",
+        "genreAlt": "기타",
+        "repNationNm": "한국",
+        "repGenreNm": "기타",
+        "directors": [
+          {
+            "peopleNm": "조민재"
+          },
+          {
+            "peopleNm": "이나연"
+          }
+        ],
+        "companys": []
+      },
+      {
+        "movieCd": "20200401",
+        "movieNm": "오! 슬프도다",
+        "movieNmEn": "Alas for Me",
+        "prdtYear": "1993",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "기타",
+        "nationAlt": "프랑스,스위스",
+        "genreAlt": "코미디,드라마,판타지",
+        "repNationNm": "프랑스",
+        "repGenreNm": "코미디",
+        "directors": [
+          {
+            "peopleNm": "장 뤽 고다르"
+          }
+        ],
+        "companys": []
+      },
+      {
+        "movieCd": "19878117",
+        "movieNm": "오른쪽에 주의하라",
+        "movieNmEn": "Keep Up Your Right",
+        "prdtYear": "1987",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "기타",
+        "nationAlt": "프랑스,스위스",
+        "genreAlt": "코미디,드라마,판타지",
+        "repNationNm": "프랑스",
+        "repGenreNm": "코미디",
+        "directors": [
+          {
+            "peopleNm": "장 뤽 고다르"
+          }
+        ],
+        "companys": []
+      },
+      {
+        "movieCd": "20205249",
+        "movieNm": "나의 침묵",
+        "movieNmEn": "The Floor Below",
+        "prdtYear": "2020",
+        "openDt": "",
+        "typeNm": "단편",
+        "prdtStatNm": "기타",
+        "nationAlt": "한국",
+        "genreAlt": "드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "드라마",
+        "directors": [
+          {
+            "peopleNm": "황혜인"
+          }
+        ],
+        "companys": []
+      },
+      {
+        "movieCd": "20200385",
+        "movieNm": "리어왕",
+        "movieNmEn": "King Lear",
+        "prdtYear": "1987",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "기타",
+        "nationAlt": "미국,프랑스,스위스",
+        "genreAlt": "코미디,드라마,SF",
+        "repNationNm": "미국",
+        "repGenreNm": "코미디",
+        "directors": [
+          {
+            "peopleNm": "장 뤽 고다르"
+          }
+        ],
+        "companys": []
+      },
+      {
+        "movieCd": "20200384",
+        "movieNm": "굿타임",
+        "movieNmEn": "Goodtime",
+        "prdtYear": "2020",
+        "openDt": "",
+        "typeNm": "단편",
+        "prdtStatNm": "기타",
+        "nationAlt": "한국",
+        "genreAlt": "기타",
+        "repNationNm": "한국",
+        "repGenreNm": "기타",
+        "directors": [
+          {
+            "peopleNm": "강동인"
+          }
+        ],
+        "companys": []
+      },
+      {
+        "movieCd": "20200338",
+        "movieNm": "건설 유니버스의 어떤 오류",
+        "movieNmEn": "Some Errors of the Construction-universe",
+        "prdtYear": "2020",
+        "openDt": "",
+        "typeNm": "단편",
+        "prdtStatNm": "기타",
+        "nationAlt": "한국",
+        "genreAlt": "기타",
+        "repNationNm": "한국",
+        "repGenreNm": "기타",
+        "directors": [
+          {
+            "peopleNm": "박군제"
+          }
+        ],
+        "companys": []
+      },
+      {
+        "movieCd": "20200340",
+        "movieNm": "추석 연휴 쉽니다",
+        "movieNmEn": "Full Moon",
+        "prdtYear": "2020",
+        "openDt": "",
+        "typeNm": "단편",
+        "prdtStatNm": "기타",
+        "nationAlt": "한국",
+        "genreAlt": "기타",
+        "repNationNm": "한국",
+        "repGenreNm": "기타",
+        "directors": [
+          {
+            "peopleNm": "남순아"
+          }
+        ],
+        "companys": []
+      },
+      {
+        "movieCd": "20200339",
+        "movieNm": "작은 독립 영화사의 흥망성쇠",
+        "movieNmEn": "The Rise and Fall of a Small Film Company",
+        "prdtYear": "1986",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "기타",
+        "nationAlt": "스위스,프랑스",
+        "genreAlt": "범죄,스릴러",
+        "repNationNm": "스위스",
+        "repGenreNm": "범죄",
+        "directors": [
+          {
+            "peopleNm": "장 뤽 고다르"
+          }
+        ],
+        "companys": []
+      },
+      {
+        "movieCd": "20204553",
+        "movieNm": "드라이빙 스쿨",
+        "movieNmEn": "Driving School",
+        "prdtYear": "2019",
+        "openDt": "",
+        "typeNm": "단편",
+        "prdtStatNm": "기타",
+        "nationAlt": "한국",
+        "genreAlt": "드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "드라마",
+        "directors": [
+          {
+            "peopleNm": "유수진"
+          }
+        ],
+        "companys": []
+      },
+      {
+        "movieCd": "19858279",
+        "movieNm": "탐정",
+        "movieNmEn": "Detective",
+        "prdtYear": "1985",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "기타",
+        "nationAlt": "스위스,프랑스",
+        "genreAlt": "코미디,범죄,드라마",
+        "repNationNm": "스위스",
+        "repGenreNm": "코미디",
+        "directors": [
+          {
+            "peopleNm": "장 뤽 고다르"
+          }
+        ],
+        "companys": []
+      },
+      {
+        "movieCd": "20200337",
+        "movieNm": "열정",
+        "movieNmEn": "Passion",
+        "prdtYear": "1982",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "기타",
+        "nationAlt": "스위스,프랑스",
+        "genreAlt": "코미디,드라마",
+        "repNationNm": "스위스",
+        "repGenreNm": "코미디",
+        "directors": [
+          {
+            "peopleNm": "장 뤽 고다르"
+          }
+        ],
+        "companys": []
+      },
+      {
+        "movieCd": "20200383",
+        "movieNm": "각자의 입장",
+        "movieNmEn": "Each",
+        "prdtYear": "2019",
+        "openDt": "",
+        "typeNm": "단편",
+        "prdtStatNm": "기타",
+        "nationAlt": "한국",
+        "genreAlt": "드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "드라마",
+        "directors": [],
+        "companys": []
+      },
+      {
+        "movieCd": "20200382",
+        "movieNm": "어때?",
+        "movieNmEn": "How Is It Going?",
+        "prdtYear": "1976",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "기타",
+        "nationAlt": "프랑스",
+        "genreAlt": "드라마",
+        "repNationNm": "프랑스",
+        "repGenreNm": "드라마",
+        "directors": [
+          {
+            "peopleNm": "장 뤽 고다르"
+          },
+          {
+            "peopleNm": "안느 마리 미에빌"
+          }
+        ],
+        "companys": []
+      },
+      {
+        "movieCd": "20207722",
+        "movieNm": "저 산 너머",
+        "movieNmEn": "",
+        "prdtYear": "2019",
+        "openDt": "20200430",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "드라마",
+        "directors": [
+          {
+            "peopleNm": "최종태"
+          }
+        ],
+        "companys": [
+          {
+            "companyCd": "20203721",
+            "companyNm": "리온픽쳐스(주)"
+          }
+        ]
+      },
+      {
+        "movieCd": "20208962",
+        "movieNm": "대외비: 권력의 탄생(가제)",
+        "movieNmEn": "",
+        "prdtYear": "2020",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "촬영진행",
+        "nationAlt": "한국",
+        "genreAlt": "드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "드라마",
+        "directors": [
+          {
+            "peopleNm": "이원태"
+          }
+        ],
+        "companys": []
+      },
+      {
+        "movieCd": "20189612",
+        "movieNm": "안녕, 미누",
+        "movieNmEn": "Free Minu",
+        "prdtYear": "2019",
+        "openDt": "20200527",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "다큐멘터리",
+        "repNationNm": "한국",
+        "repGenreNm": "다큐멘터리",
+        "directors": [
+          {
+            "peopleNm": "지혜원"
+          }
+        ],
+        "companys": [
+          {
+            "companyCd": "20139841",
+            "companyNm": "바른미디어"
+          }
+        ]
+      },
+      {
+        "movieCd": "20200336",
+        "movieNm": "우리 형수님",
+        "movieNmEn": "",
+        "prdtYear": "2020",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "기타",
+        "nationAlt": "한국",
+        "genreAlt": "드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "드라마",
+        "directors": [
+          {
+            "peopleNm": "최성은"
+          }
+        ],
+        "companys": [
+          {
+            "companyCd": "20136715",
+            "companyNm": "(주)영화사히트"
+          }
+        ]
+      },
+      {
+        "movieCd": "20209343",
+        "movieNm": "한산: 용의 출현",
+        "movieNmEn": "",
+        "prdtYear": "2020",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "촬영진행",
+        "nationAlt": "한국",
+        "genreAlt": "전쟁",
+        "repNationNm": "한국",
+        "repGenreNm": "전쟁",
+        "directors": [
+          {
+            "peopleNm": "김한민"
+          }
+        ],
+        "companys": [
+          {
+            "companyCd": "20123063",
+            "companyNm": "(주)빅스톤픽쳐스"
+          }
+        ]
+      },
+      {
+        "movieCd": "20200381",
+        "movieNm": "한입만",
+        "movieNmEn": "",
+        "prdtYear": "2020",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "기타",
+        "nationAlt": "한국",
+        "genreAlt": "드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "드라마",
+        "directors": [
+          {
+            "peopleNm": "최성은"
+          }
+        ],
+        "companys": [
+          {
+            "companyCd": "20136715",
+            "companyNm": "(주)영화사히트"
+          }
+        ]
+      },
+      {
+        "movieCd": "20125967",
+        "movieNm": "멜랑콜리아",
+        "movieNmEn": "Melancholia",
+        "prdtYear": "2011",
+        "openDt": "20120517",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "덴마크,스웨덴,이탈리아,독일,프랑스",
+        "genreAlt": "드라마,SF,스릴러",
+        "repNationNm": "덴마크",
+        "repGenreNm": "드라마",
+        "directors": [
+          {
+            "peopleNm": "라스 폰 트리에"
+          }
+        ],
+        "companys": []
+      },
+      {
+        "movieCd": "20193069",
+        "movieNm": "#살아있다",
+        "movieNmEn": "#alive",
+        "prdtYear": "2019",
+        "openDt": "20200624",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉예정",
+        "nationAlt": "한국",
+        "genreAlt": "드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "드라마",
+        "directors": [
+          {
+            "peopleNm": "조일형"
+          }
+        ],
+        "companys": [
+          {
+            "companyCd": "20100450",
+            "companyNm": "영화사 집"
+          }
+        ]
+      },
+      {
+        "movieCd": "20208617",
+        "movieNm": "인베이젼 2020",
+        "movieNmEn": "Invasion",
+        "prdtYear": "2020",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉예정",
+        "nationAlt": "미국,러시아",
+        "genreAlt": "SF",
+        "repNationNm": "미국",
+        "repGenreNm": "SF",
+        "directors": [
+          {
+            "peopleNm": "표도르 본다르추크"
+          }
+        ],
+        "companys": []
+      },
+      {
+        "movieCd": "20200335",
+        "movieNm": "보르도 우정여행",
+        "movieNmEn": "Nous finirons ensemble",
+        "prdtYear": "2019",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉예정",
+        "nationAlt": "프랑스",
+        "genreAlt": "드라마,코미디",
+        "repNationNm": "프랑스",
+        "repGenreNm": "드라마",
+        "directors": [
+          {
+            "peopleNm": "기욤 까네"
+          }
+        ],
+        "companys": []
+      },
+      {
+        "movieCd": "20197922",
+        "movieNm": "다만 악에서 구하소서",
+        "movieNmEn": "DELIVER US FROM EVIL",
+        "prdtYear": "2019",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉준비",
+        "nationAlt": "한국",
+        "genreAlt": "범죄,액션",
+        "repNationNm": "한국",
+        "repGenreNm": "범죄",
+        "directors": [
+          {
+            "peopleNm": "홍원찬"
+          }
+        ],
+        "companys": [
+          {
+            "companyCd": "2016841",
+            "companyNm": "(주)하이브미디어코프"
+          }
+        ]
+      },
+      {
+        "movieCd": "20200334",
+        "movieNm": "아버지의 땅",
+        "movieNmEn": "Land of My Father",
+        "prdtYear": "2020",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "기타",
+        "nationAlt": "한국,미국",
+        "genreAlt": "다큐멘터리",
+        "repNationNm": "한국",
+        "repGenreNm": "다큐멘터리",
+        "directors": [],
+        "companys": []
+      },
+      {
+        "movieCd": "20200333",
+        "movieNm": "애프터워터",
+        "movieNmEn": "AFTERWATER",
+        "prdtYear": "2020",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "기타",
+        "nationAlt": "독일,한국,스페인,세르비아",
+        "genreAlt": "기타",
+        "repNationNm": "독일",
+        "repGenreNm": "기타",
+        "directors": [],
+        "companys": []
+      },
+      {
+        "movieCd": "20200364",
+        "movieNm": "정말 먼 곳",
+        "movieNmEn": "A Distant Place",
+        "prdtYear": "2020",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "기타",
+        "nationAlt": "한국",
+        "genreAlt": "기타",
+        "repNationNm": "한국",
+        "repGenreNm": "기타",
+        "directors": [
+          {
+            "peopleNm": "박근영"
+          }
+        ],
+        "companys": []
+      },
+      {
+        "movieCd": "20199251",
+        "movieNm": "노나",
+        "movieNmEn": "Nona. If They Soak Me, I'll Burn Them",
+        "prdtYear": "2019",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "기타",
+        "nationAlt": "칠레,브라질,프랑스,한국",
+        "genreAlt": "드라마",
+        "repNationNm": "칠레",
+        "repGenreNm": "드라마",
+        "directors": [
+          {
+            "peopleNm": "카밀라 호세 도노소"
+          }
+        ],
+        "companys": []
+      },
+      {
+        "movieCd": "20200332",
+        "movieNm": "우리의 최선",
+        "movieNmEn": "HRA",
+        "prdtYear": "2019",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "기타",
+        "nationAlt": "체코,칠레,프랑스,한국",
+        "genreAlt": "기타",
+        "repNationNm": "체코",
+        "repGenreNm": "기타",
+        "directors": [
+          {
+            "peopleNm": "알레한드로 페르난데즈 알멘드라스"
+          }
+        ],
+        "companys": []
+      },
+      {
+        "movieCd": "20194343",
+        "movieNm": "이사도라의 아이들",
+        "movieNmEn": "ISADORA'S CHILDREN",
+        "prdtYear": "2019",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "기타",
+        "nationAlt": "프랑스,한국",
+        "genreAlt": "드라마",
+        "repNationNm": "프랑스",
+        "repGenreNm": "드라마",
+        "directors": [
+          {
+            "peopleNm": "다미앙 마니벨"
+          }
+        ],
+        "companys": [
+          {
+            "companyCd": "20100652",
+            "companyNm": "(재)전주국제영화제조직위원회"
+          }
+        ]
+      },
+      {
+        "movieCd": "20200331",
+        "movieNm": "휴거, 그들이 사라진 날",
+        "movieNmEn": "",
+        "prdtYear": "2020",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "기타",
+        "nationAlt": "한국",
+        "genreAlt": "다큐멘터리",
+        "repNationNm": "한국",
+        "repGenreNm": "다큐멘터리",
+        "directors": [
+          {
+            "peopleNm": "임종윤"
+          }
+        ],
+        "companys": []
+      },
+      {
+        "movieCd": "20200330",
+        "movieNm": "수능의 탄생",
+        "movieNmEn": "",
+        "prdtYear": "2019",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "기타",
+        "nationAlt": "한국",
+        "genreAlt": "다큐멘터리",
+        "repNationNm": "한국",
+        "repGenreNm": "다큐멘터리",
+        "directors": [],
+        "companys": []
+      },
+      {
+        "movieCd": "20200329",
+        "movieNm": "시대유감, 삼풍",
+        "movieNmEn": "",
+        "prdtYear": "2020",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "기타",
+        "nationAlt": "한국",
+        "genreAlt": "다큐멘터리",
+        "repNationNm": "한국",
+        "repGenreNm": "다큐멘터리",
+        "directors": [],
+        "companys": []
+      },
+      {
+        "movieCd": "20200363",
+        "movieNm": "대망",
+        "movieNmEn": "",
+        "prdtYear": "2019",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "기타",
+        "nationAlt": "한국",
+        "genreAlt": "다큐멘터리",
+        "repNationNm": "한국",
+        "repGenreNm": "다큐멘터리",
+        "directors": [],
+        "companys": []
+      },
+      {
+        "movieCd": "20183782",
+        "movieNm": "기생충",
+        "movieNmEn": "PARASITE",
+        "prdtYear": "2019",
+        "openDt": "20190530",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "드라마",
+        "directors": [
+          {
+            "peopleNm": "봉준호"
+          }
+        ],
+        "companys": [
+          {
+            "companyCd": "20100558",
+            "companyNm": "(주)바른손이앤에이"
+          }
+        ]
+      },
+      {
+        "movieCd": "20200328",
+        "movieNm": "왕조",
+        "movieNmEn": "",
+        "prdtYear": "2020",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "기타",
+        "nationAlt": "한국",
+        "genreAlt": "기타",
+        "repNationNm": "한국",
+        "repGenreNm": "기타",
+        "directors": [
+          {
+            "peopleNm": "전진"
+          }
+        ],
+        "companys": []
+      },
+      {
+        "movieCd": "20200362",
+        "movieNm": "우리의 소원은",
+        "movieNmEn": "",
+        "prdtYear": "2019",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "기타",
+        "nationAlt": "한국",
+        "genreAlt": "기타",
+        "repNationNm": "한국",
+        "repGenreNm": "기타",
+        "directors": [],
+        "companys": []
+      },
+      {
+        "movieCd": "20191048",
+        "movieNm": "온워드: 단 하루의 기적",
+        "movieNmEn": "Onward",
+        "prdtYear": "2020",
+        "openDt": "20200617",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉예정",
+        "nationAlt": "미국",
+        "genreAlt": "애니메이션,어드벤처,판타지",
+        "repNationNm": "미국",
+        "repGenreNm": "애니메이션",
+        "directors": [
+          {
+            "peopleNm": "댄 스캔론"
+          }
+        ],
+        "companys": []
+      },
+      {
+        "movieCd": "20200361",
+        "movieNm": "아무튼, 아담",
+        "movieNmEn": "Adam",
+        "prdtYear": "2020",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉예정",
+        "nationAlt": "미국",
+        "genreAlt": "드라마",
+        "repNationNm": "미국",
+        "repGenreNm": "드라마",
+        "directors": [],
+        "companys": []
+      },
+      {
+        "movieCd": "20196711",
+        "movieNm": "파리 오페라 발레단",
+        "movieNmEn": "Reset",
+        "prdtYear": "2016",
+        "openDt": "20200611",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉예정",
+        "nationAlt": "프랑스",
+        "genreAlt": "다큐멘터리",
+        "repNationNm": "프랑스",
+        "repGenreNm": "다큐멘터리",
+        "directors": [
+          {
+            "peopleNm": "티에리 데마이지에르"
+          },
+          {
+            "peopleNm": "알반 테우를라이"
+          }
+        ],
+        "companys": []
+      },
+      {
+        "movieCd": "20195483",
+        "movieNm": "에이브의 쿠킹 다이어리",
+        "movieNmEn": "Abe",
+        "prdtYear": "2018",
+        "openDt": "20200624",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉예정",
+        "nationAlt": "브라질",
+        "genreAlt": "드라마",
+        "repNationNm": "브라질",
+        "repGenreNm": "드라마",
+        "directors": [],
+        "companys": []
+      },
+      {
+        "movieCd": "20176081",
+        "movieNm": "경계인들",
+        "movieNmEn": "The marginal people",
+        "prdtYear": "2016",
+        "openDt": "20181012",
+        "typeNm": "옴니버스",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "드라마",
+        "directors": [
+          {
+            "peopleNm": "박소진"
+          },
+          {
+            "peopleNm": "배세웅"
+          }
+        ],
+        "companys": [
+          {
+            "companyCd": "20138096",
+            "companyNm": "라제떼"
+          }
+        ]
+      },
+      {
+        "movieCd": "20200327",
+        "movieNm": "로스콘둑토스",
+        "movieNmEn": "Los Conductos",
+        "prdtYear": "2020",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "기타",
+        "nationAlt": "프랑스,콜롬비아,브라질",
+        "genreAlt": "기타",
+        "repNationNm": "프랑스",
+        "repGenreNm": "기타",
+        "directors": [],
+        "companys": []
+      },
+      {
+        "movieCd": "20162817",
+        "movieNm": "샬레",
+        "movieNmEn": "Chalet",
+        "prdtYear": "2015",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "기타",
+        "nationAlt": "한국",
+        "genreAlt": "드라마,멜로/로맨스",
+        "repNationNm": "한국",
+        "repGenreNm": "드라마",
+        "directors": [
+          {
+            "peopleNm": "박소진"
+          }
+        ],
+        "companys": [
+          {
+            "companyCd": "20138096",
+            "companyNm": "라제떼"
+          }
+        ]
+      },
+      {
+        "movieCd": "20209644",
+        "movieNm": "엔딩스 비기닝스",
+        "movieNmEn": "ENDINGS, BEGINNINGS",
+        "prdtYear": "2019",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉예정",
+        "nationAlt": "미국,한국",
+        "genreAlt": "드라마,멜로/로맨스",
+        "repNationNm": "미국",
+        "repGenreNm": "드라마",
+        "directors": [
+          {
+            "peopleNm": "드레이크 도리머스"
+          }
+        ],
+        "companys": [
+          {
+            "companyCd": "20110854",
+            "companyNm": "씨제이이앤엠(주)"
+          }
+        ]
+      },
+      {
+        "movieCd": "20192522",
+        "movieNm": "슈퍼 레이스",
+        "movieNmEn": "RACETIME",
+        "prdtYear": "2018",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉예정",
+        "nationAlt": "캐나다",
+        "genreAlt": "어드벤처",
+        "repNationNm": "캐나다",
+        "repGenreNm": "어드벤처",
+        "directors": [],
+        "companys": []
+      },
+      {
+        "movieCd": "20208887",
+        "movieNm": "16세의 사운드트랙",
+        "movieNmEn": "Soundtrack to Sixteen",
+        "prdtYear": "2019",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "기타",
+        "nationAlt": "영국",
+        "genreAlt": "코미디,멜로/로맨스",
+        "repNationNm": "영국",
+        "repGenreNm": "코미디",
+        "directors": [
+          {
+            "peopleNm": "힐러리 셰익스피어"
+          }
+        ],
+        "companys": []
+      },
+      {
+        "movieCd": "20196201",
+        "movieNm": "소리꾼",
+        "movieNmEn": "",
+        "prdtYear": "2019",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉예정",
+        "nationAlt": "한국",
+        "genreAlt": "사극,드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "사극",
+        "directors": [
+          {
+            "peopleNm": "조정래"
+          }
+        ],
+        "companys": [
+          {
+            "companyCd": "20123223",
+            "companyNm": "주식회사 제이오엔터테인먼트코리아"
+          }
+        ]
+      },
+      {
+        "movieCd": "20207341",
+        "movieNm": "레이니 데이 인 뉴욕",
+        "movieNmEn": " A Rainy Day in New York",
+        "prdtYear": "2019",
+        "openDt": "20200506",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "미국",
+        "genreAlt": "코미디,멜로/로맨스",
+        "repNationNm": "미국",
+        "repGenreNm": "코미디",
+        "directors": [
+          {
+            "peopleNm": "우디 앨런"
+          }
+        ],
+        "companys": []
+      },
+      {
+        "movieCd": "20204644",
+        "movieNm": "밤쉘: 세상을 바꾼 폭탄선언",
+        "movieNmEn": "Bombshell",
+        "prdtYear": "2019",
+        "openDt": "",
+        "typeNm": "기타",
+        "prdtStatNm": "개봉예정",
+        "nationAlt": "미국,캐나다",
+        "genreAlt": "드라마",
+        "repNationNm": "미국",
+        "repGenreNm": "드라마",
+        "directors": [
+          {
+            "peopleNm": "제이 로치"
+          }
+        ],
+        "companys": []
+      },
+      {
+        "movieCd": "20209607",
+        "movieNm": "1945: 포인트 오브 노 리턴",
+        "movieNmEn": "The Eastern Front: Point of No Return",
+        "prdtYear": "2019",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉예정",
+        "nationAlt": "영국",
+        "genreAlt": "전쟁",
+        "repNationNm": "영국",
+        "repGenreNm": "전쟁",
+        "directors": [
+          {
+            "peopleNm": "릭 로버츠"
+          }
+        ],
+        "companys": []
+      },
+      {
+        "movieCd": "20209408",
+        "movieNm": "와일드 시티",
+        "movieNmEn": "The Corrupted",
+        "prdtYear": "2019",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉예정",
+        "nationAlt": "영국",
+        "genreAlt": "액션",
+        "repNationNm": "영국",
+        "repGenreNm": "액션",
+        "directors": [
+          {
+            "peopleNm": "론 스캘펠로"
+          }
+        ],
+        "companys": []
+      },
+      {
+        "movieCd": "19890188",
+        "movieNm": "전망좋은 방",
+        "movieNmEn": "A Room With A View",
+        "prdtYear": "1985",
+        "openDt": "19890624",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "영국",
+        "genreAlt": "드라마,멜로/로맨스",
+        "repNationNm": "영국",
+        "repGenreNm": "드라마",
+        "directors": [
+          {
+            "peopleNm": "제임스 아이보리"
+          }
+        ],
+        "companys": []
+      },
+      {
+        "movieCd": "20200349",
+        "movieNm": "폭풍이 오던 날",
+        "movieNmEn": "Anunciaron Tormenta",
+        "prdtYear": "2019",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "기타",
+        "nationAlt": "스페인",
+        "genreAlt": "다큐멘터리,범죄",
+        "repNationNm": "스페인",
+        "repGenreNm": "다큐멘터리",
+        "directors": [],
+        "companys": []
+      },
+      {
+        "movieCd": "20209362",
+        "movieNm": "도미노",
+        "movieNmEn": "DOMINO",
+        "prdtYear": "2019",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉예정",
+        "nationAlt": "덴마크,프랑스,이탈리아,벨기에",
+        "genreAlt": "범죄,스릴러",
+        "repNationNm": "덴마크",
+        "repGenreNm": "범죄",
+        "directors": [
+          {
+            "peopleNm": "브라이언 드 팔마"
+          }
+        ],
+        "companys": []
+      },
+      {
+        "movieCd": "20200348",
+        "movieNm": "3.30 PM",
+        "movieNmEn": "3.30 PM",
+        "prdtYear": "2020",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "기타",
+        "nationAlt": "오스트리아 ",
+        "genreAlt": "기타",
+        "repNationNm": "오스트리아 ",
+        "repGenreNm": "기타",
+        "directors": [],
+        "companys": []
+      },
+      {
+        "movieCd": "20200347",
+        "movieNm": "붉은 달의 조류",
+        "movieNmEn": "Red Moon Tide",
+        "prdtYear": "2020",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "기타",
+        "nationAlt": "스페인",
+        "genreAlt": "기타",
+        "repNationNm": "스페인",
+        "repGenreNm": "기타",
+        "directors": [
+          {
+            "peopleNm": "로이스 파티노"
+          }
+        ],
+        "companys": []
+      },
+      {
+        "movieCd": "20206082",
+        "movieNm": "들리나요?",
+        "movieNmEn": "",
+        "prdtYear": "2020",
+        "openDt": "20200610",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉예정",
+        "nationAlt": "한국",
+        "genreAlt": "다큐멘터리",
+        "repNationNm": "한국",
+        "repGenreNm": "다큐멘터리",
+        "directors": [
+          {
+            "peopleNm": "김봉한"
+          },
+          {
+            "peopleNm": "신승환"
+          }
+        ],
+        "companys": [
+          {
+            "companyCd": "20158289",
+            "companyNm": "(주)영화사장춘"
+          }
+        ]
+      },
+      {
+        "movieCd": "20200346",
+        "movieNm": "매기의 농장",
+        "movieNmEn": "Maggie's Farm",
+        "prdtYear": "2019",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "기타",
+        "nationAlt": "미국",
+        "genreAlt": "다큐멘터리",
+        "repNationNm": "미국",
+        "repGenreNm": "다큐멘터리",
+        "directors": [
+          {
+            "peopleNm": "제임스 베닝"
+          }
+        ],
+        "companys": []
+      },
+      {
+        "movieCd": "20200345",
+        "movieNm": "안젤라의 일기 - 두 감독: 챕터 2",
+        "movieNmEn": "I diari di Angela – Noi due cineasti. Capitolo secondo",
+        "prdtYear": "2019",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "기타",
+        "nationAlt": "이탈리아",
+        "genreAlt": "다큐멘터리",
+        "repNationNm": "이탈리아",
+        "repGenreNm": "다큐멘터리",
+        "directors": [
+          {
+            "peopleNm": "예르반트 지아니키안"
+          }
+        ],
+        "companys": []
+      },
+      {
+        "movieCd": "20200344",
+        "movieNm": "오스모시스",
+        "movieNmEn": "Osmosis",
+        "prdtYear": "2019",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "기타",
+        "nationAlt": "중국",
+        "genreAlt": "다큐멘터리",
+        "repNationNm": "중국",
+        "repGenreNm": "다큐멘터리",
+        "directors": [],
+        "companys": []
+      },
+      {
+        "movieCd": "20199718",
+        "movieNm": "행복의 나라로(가제)",
+        "movieNmEn": "",
+        "prdtYear": "2019",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "후반작업",
+        "nationAlt": "한국",
+        "genreAlt": "드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "드라마",
+        "directors": [
+          {
+            "peopleNm": "임상수"
+          }
+        ],
+        "companys": [
+          {
+            "companyCd": "2016841",
+            "companyNm": "(주)하이브미디어코프"
+          }
+        ]
+      },
+      {
+        "movieCd": "20200326",
+        "movieNm": "안나 아초리의 노트 - 시간 여행의 거울",
+        "movieNmEn": "Gli appunti di Anna Azzori",
+        "prdtYear": "2020",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "기타",
+        "nationAlt": "독일,프랑스,오스트리아 ",
+        "genreAlt": "다큐멘터리",
+        "repNationNm": "독일",
+        "repGenreNm": "다큐멘터리",
+        "directors": [],
+        "companys": []
+      },
+      {
+        "movieCd": "20200325",
+        "movieNm": "새들의 섬",
+        "movieNmEn": "Bird Island",
+        "prdtYear": "2019",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "기타",
+        "nationAlt": "스위스",
+        "genreAlt": "다큐멘터리",
+        "repNationNm": "스위스",
+        "repGenreNm": "다큐멘터리",
+        "directors": [],
+        "companys": []
+      },
+      {
+        "movieCd": "20209029",
+        "movieNm": "아홉 스님",
+        "movieNmEn": "",
+        "prdtYear": "2020",
+        "openDt": "20200527",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "드라마",
+        "directors": [
+          {
+            "peopleNm": "윤성준"
+          }
+        ],
+        "companys": [
+          {
+            "companyCd": "20139095",
+            "companyNm": "(주)퍼스트런"
+          },
+          {
+            "companyCd": "20187781",
+            "companyNm": "우주레이블"
+          }
+        ]
+      },
+      {
+        "movieCd": "20200343",
+        "movieNm": "와일드 구스 레이크",
+        "movieNmEn": "The Wild Goose Lake",
+        "prdtYear": "2019",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "기타",
+        "nationAlt": "중국,프랑스",
+        "genreAlt": "기타",
+        "repNationNm": "중국",
+        "repGenreNm": "기타",
+        "directors": [
+          {
+            "peopleNm": "디아오 이난"
+          }
+        ],
+        "companys": []
+      },
+      {
+        "movieCd": "20209847",
+        "movieNm": "음양검 - 간장막야",
+        "movieNmEn": "Swordsman",
+        "prdtYear": "2019",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉예정",
+        "nationAlt": "중국",
+        "genreAlt": "액션",
+        "repNationNm": "중국",
+        "repGenreNm": "액션",
+        "directors": [],
+        "companys": []
+      },
+      {
+        "movieCd": "20200324",
+        "movieNm": "데즈카 오사무의 바르보라",
+        "movieNmEn": "BARBARA",
+        "prdtYear": "2019",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "기타",
+        "nationAlt": "일본",
+        "genreAlt": "기타",
+        "repNationNm": "일본",
+        "repGenreNm": "기타",
+        "directors": [
+          {
+            "peopleNm": "테즈카 마코토"
+          }
+        ],
+        "companys": []
+      },
+      {
+        "movieCd": "20205481",
+        "movieNm": "에어로너츠",
+        "movieNmEn": "The Aeronauts",
+        "prdtYear": "2019",
+        "openDt": "20200610",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉예정",
+        "nationAlt": "영국,미국",
+        "genreAlt": "드라마,어드벤처",
+        "repNationNm": "영국",
+        "repGenreNm": "드라마",
+        "directors": [
+          {
+            "peopleNm": "톰 하퍼"
+          }
+        ],
+        "companys": []
+      },
+      {
+        "movieCd": "20207984",
+        "movieNm": "분화구의 두 사람",
+        "movieNmEn": "It Feels So Good",
+        "prdtYear": "2019",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉예정",
+        "nationAlt": "일본",
+        "genreAlt": "멜로/로맨스",
+        "repNationNm": "일본",
+        "repGenreNm": "멜로/로맨스",
+        "directors": [
+          {
+            "peopleNm": "아라이 하루히코"
+          }
+        ],
+        "companys": []
+      },
+      {
+        "movieCd": "20200323",
+        "movieNm": "열렬한 사랑",
+        "movieNmEn": "Adoration",
+        "prdtYear": "2019",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "기타",
+        "nationAlt": "프랑스,벨기에",
+        "genreAlt": "기타",
+        "repNationNm": "프랑스",
+        "repGenreNm": "기타",
+        "directors": [
+          {
+            "peopleNm": "파브리스 두 웰즈"
+          }
+        ],
+        "companys": []
+      },
+      {
+        "movieCd": "20200342",
+        "movieNm": "바다가 없는 마을",
+        "movieNmEn": "Town without Sea",
+        "prdtYear": "2020",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "기타",
+        "nationAlt": "일본",
+        "genreAlt": "기타",
+        "repNationNm": "일본",
+        "repGenreNm": "기타",
+        "directors": [
+          {
+            "peopleNm": "이케다 에라이자"
+          }
+        ],
+        "companys": []
+      },
+      {
+        "movieCd": "20200083",
+        "movieNm": "해피 디 데이",
+        "movieNmEn": "Dog Days",
+        "prdtYear": "2018",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉예정",
+        "nationAlt": "미국",
+        "genreAlt": "코미디,드라마,멜로/로맨스",
+        "repNationNm": "미국",
+        "repGenreNm": "코미디",
+        "directors": [
+          {
+            "peopleNm": "켄 마리노"
+          }
+        ],
+        "companys": []
+      },
+      {
+        "movieCd": "20181685",
+        "movieNm": "호텔 레이크",
+        "movieNmEn": "",
+        "prdtYear": "2020",
+        "openDt": "20200429",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "공포(호러)",
+        "repNationNm": "한국",
+        "repGenreNm": "공포(호러)",
+        "directors": [
+          {
+            "peopleNm": "윤은경"
+          }
+        ],
+        "companys": [
+          {
+            "companyCd": "20190681",
+            "companyNm": "(주)이에스픽쳐스"
+          },
+          {
+            "companyCd": "20100036",
+            "companyNm": "㈜인디스토리"
+          }
+        ]
+      },
+      {
+        "movieCd": "20200341",
+        "movieNm": "저스트 6.5",
+        "movieNmEn": "Metri Shisho NIm",
+        "prdtYear": "2019",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "기타",
+        "nationAlt": "이란",
+        "genreAlt": "기타",
+        "repNationNm": "이란",
+        "repGenreNm": "기타",
+        "directors": [],
+        "companys": []
+      },
+      {
+        "movieCd": "20196778",
+        "movieNm": "꿀벌과 천둥",
+        "movieNmEn": "Listen to the Universe",
+        "prdtYear": "2019",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "기타",
+        "nationAlt": "일본",
+        "genreAlt": "드라마",
+        "repNationNm": "일본",
+        "repGenreNm": "드라마",
+        "directors": [
+          {
+            "peopleNm": "이시카와 케이"
+          }
+        ],
+        "companys": []
+      },
+      {
+        "movieCd": "20200322",
+        "movieNm": "레드",
+        "movieNmEn": "Red",
+        "prdtYear": "2020",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "기타",
+        "nationAlt": "일본",
+        "genreAlt": "드라마,멜로/로맨스",
+        "repNationNm": "일본",
+        "repGenreNm": "드라마",
+        "directors": [
+          {
+            "peopleNm": "미시마 유키코"
+          }
+        ],
+        "companys": []
+      },
+      {
+        "movieCd": "20193450",
+        "movieNm": "반도",
+        "movieNmEn": "",
+        "prdtYear": "2020",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉예정",
+        "nationAlt": "한국",
+        "genreAlt": "액션,드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "액션",
+        "directors": [
+          {
+            "peopleNm": "연상호"
+          }
+        ],
+        "companys": [
+          {
+            "companyCd": "20140808",
+            "companyNm": "(주)영화사레드피터"
+          }
+        ]
+      },
+      {
+        "movieCd": "20208261",
+        "movieNm": "범털",
+        "movieNmEn": "",
+        "prdtYear": "2020",
+        "openDt": "20200514",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "범죄,드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "범죄",
+        "directors": [
+          {
+            "peopleNm": "강태호"
+          }
+        ],
+        "companys": [
+          {
+            "companyCd": "20063058",
+            "companyNm": "(주)피터팬픽쳐스"
+          }
+        ]
+      },
+      {
+        "movieCd": "20209402",
+        "movieNm": "뷰티풀 데이 인 더 네이버후드",
+        "movieNmEn": "A Beautiful Day in the Neighborhood",
+        "prdtYear": "2019",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "기타",
+        "nationAlt": "미국,중국",
+        "genreAlt": "드라마",
+        "repNationNm": "미국",
+        "repGenreNm": "드라마",
+        "directors": [
+          {
+            "peopleNm": "마리엘 헬러"
+          }
+        ],
+        "companys": []
+      },
+      {
+        "movieCd": "20209721",
+        "movieNm": "에베레스트",
+        "movieNmEn": "The Climbers",
+        "prdtYear": "2019",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉예정",
+        "nationAlt": "중국",
+        "genreAlt": "액션,어드벤처,드라마",
+        "repNationNm": "중국",
+        "repGenreNm": "액션",
+        "directors": [
+          {
+            "peopleNm": "이인항"
+          }
+        ],
+        "companys": []
+      },
+      {
+        "movieCd": "20200306",
+        "movieNm": "오디션",
+        "movieNmEn": "The Audition",
+        "prdtYear": "2019",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "기타",
+        "nationAlt": "독일,프랑스",
+        "genreAlt": "기타",
+        "repNationNm": "독일",
+        "repGenreNm": "기타",
+        "directors": [
+          {
+            "peopleNm": "이나 베이세"
+          }
+        ],
+        "companys": []
+      },
+      {
+        "movieCd": "20200321",
+        "movieNm": "드림 호스",
+        "movieNmEn": "Dream Horse",
+        "prdtYear": "2019",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "기타",
+        "nationAlt": "영국",
+        "genreAlt": "기타",
+        "repNationNm": "영국",
+        "repGenreNm": "기타",
+        "directors": [
+          {
+            "peopleNm": "유로스 린"
+          }
+        ],
+        "companys": []
+      },
+      {
+        "movieCd": "20200305",
+        "movieNm": "진도",
+        "movieNmEn": "Jindo Requiem",
+        "prdtYear": "2020",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "기타",
+        "nationAlt": "한국",
+        "genreAlt": "다큐멘터리",
+        "repNationNm": "한국",
+        "repGenreNm": "다큐멘터리",
+        "directors": [],
+        "companys": []
+      },
+      {
+        "movieCd": "20191785",
+        "movieNm": "UFO 스케치",
+        "movieNmEn": "UFO Sketch",
+        "prdtYear": "2019",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "기타",
+        "nationAlt": "한국",
+        "genreAlt": "다큐멘터리",
+        "repNationNm": "한국",
+        "repGenreNm": "다큐멘터리",
+        "directors": [
+          {
+            "peopleNm": "김홍민"
+          }
+        ],
+        "companys": []
+      },
+      {
+        "movieCd": "20200304",
+        "movieNm": "테우리",
+        "movieNmEn": "Teuri",
+        "prdtYear": "2019",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "기타",
+        "nationAlt": "한국",
+        "genreAlt": "기타",
+        "repNationNm": "한국",
+        "repGenreNm": "기타",
+        "directors": [
+          {
+            "peopleNm": "이난"
+          }
+        ],
+        "companys": []
+      },
+      {
+        "movieCd": "20200303",
+        "movieNm": "저승보다 낯선",
+        "movieNmEn": "Stranger than the Beyond",
+        "prdtYear": "2020",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "기타",
+        "nationAlt": "한국",
+        "genreAlt": "기타",
+        "repNationNm": "한국",
+        "repGenreNm": "기타",
+        "directors": [
+          {
+            "peopleNm": "여균동"
+          }
+        ],
+        "companys": []
+      },
+      {
+        "movieCd": "20178522",
+        "movieNm": "콜 미 바이 유어 네임",
+        "movieNmEn": "Call Me by Your Name",
+        "prdtYear": "2017",
+        "openDt": "20180322",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "이탈리아,프랑스,브라질,미국",
+        "genreAlt": "드라마,멜로/로맨스",
+        "repNationNm": "이탈리아",
+        "repGenreNm": "드라마",
+        "directors": [
+          {
+            "peopleNm": "루카 구아다니노"
+          }
+        ],
+        "companys": []
+      },
+      {
+        "movieCd": "20159963",
+        "movieNm": "일시",
+        "movieNmEn": "Flash",
+        "prdtYear": "2020",
+        "openDt": "",
+        "typeNm": "장편",
+        "prdtStatNm": "기타",
+        "nationAlt": "한국",
+        "genreAlt": "드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "드라마",
+        "directors": [
+          {
+            "peopleNm": "오세현"
+          }
+        ],
+        "companys": []
+      }
+    ]
+  }
+}
